@@ -1,4 +1,4 @@
-# BookReview - Backend API
+# BookReview - 
 
 RESTful API server for the BookReview application built with Node.js, Express, and MongoDB.
 
